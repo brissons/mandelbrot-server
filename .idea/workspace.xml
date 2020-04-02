@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="03d69470-ba23-4c94-82b7-7847bc5595c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/FractalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/FractalController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/FractalServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/FractalServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/ImageConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/ImageConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/Mandelbrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/Mandelbrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/MandelbrotFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/MandelbrotFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/MandelbrotImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/MandelbrotImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fractal/spring/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fractal/spring/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fractal/spring/FractalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fractal/spring/FractalController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

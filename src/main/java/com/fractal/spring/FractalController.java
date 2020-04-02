@@ -19,8 +19,8 @@ public class FractalController {
     @ResponseBody
     public byte[] mandelBrotView(@RequestParam(defaultValue = "1920") @Min(800) @Max(1920) int width,
                                  @RequestParam(defaultValue = "1440") @Min(600) @Max(1440) int height,
-                                 @RequestParam(defaultValue = "0") @Min(0) @Max(1920) double x,
-                                 @RequestParam(defaultValue = "0") @Min(0) @Max(1440) double y,
+                                 @RequestParam(defaultValue = "910") @Min(0) @Max(1920) double x,
+                                 @RequestParam(defaultValue = "720") @Min(0) @Max(1440) double y,
                                  @RequestParam(defaultValue = "1") @Min(1) @Max(4398046511104l) long scale,
                                  @RequestParam(defaultValue = "50") @Min(50) @Max(1000) long i) {
         Mandelbrot mandelbrot = MandelbrotFactory.getMandelbrot(width, height, x, y, scale, i);
