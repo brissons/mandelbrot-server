@@ -1,0 +1,7 @@
+com\fractal\spring\Mandelbrot.class
+com\fractal\spring\Result.class
+com\fractal\spring\FractalServer.class
+com\fractal\spring\FractalController.class
+com\fractal\spring\ImageConverter.class
+com\fractal\spring\MandelbrotFactory.class
+com\fractal\spring\MandelbrotImpl.class

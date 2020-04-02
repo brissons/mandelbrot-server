@@ -1,0 +1,1 @@
+web: java -jar target/mandelbrot-server-0.0.1.war --server.port=$PORT
