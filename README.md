@@ -4,7 +4,7 @@
 
 # mandelbrot-service
 
-> A server that returns an image from the Mandelbrot set.
+> A servince that returns an image from the Mandelbrot set.
 
 The service endpoint is hosted on [Heroku](https://www.heroku.com/), and can be found [here](https://mandelbrot-service.herokuapp.com/mandelbrot). The first query may take a few moments to load.
 
