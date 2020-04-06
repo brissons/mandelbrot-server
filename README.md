@@ -26,13 +26,11 @@ Retrieves an image of the Mandelbrot set.
 | x | query | The x translation of the set. | No | number |
 | y | query | The y translation of the set. | No | number |
 | scale | query | The scale (zoom) of the set. | No | number |
-| i | query | The number of iterations. Inceases detail at the expense of computation time. | No | number |
+| i | query | The number of algorithm iterations (inceases detail). | No | number |
 
 #### Example
 
-https://mandelbrot-service.herokuapp.com/mandelbrot?width=1920&height=1440&x=1069.1844985065172&y=535.9917714143127&scale=512&i=140
-
-... will return the following image:
+This [query](https://mandelbrot-service.herokuapp.com/mandelbrot?width=1920&height=1440&x=1069.1844985065172&y=535.9917714143127&scale=512&i=140) will return the following image:
 
 <p align="center"> 
   <img src="mandelbrot-service-example.jpg">
