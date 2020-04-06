@@ -32,6 +32,6 @@ The service is best used with the [front end application](https://github.com/bri
 
 This [query](https://mandelbrot-service.herokuapp.com/mandelbrot?width=1920&height=1440&x=1069.1844985065172&y=535.9917714143127&scale=512&i=140) will return the following image:  
 
-<br /><p align="center"> 
+<p align="center"> 
   <img src="mandelbrot-ex.jpg">
 </p>
