@@ -14,8 +14,8 @@ The service is best utilized using the [front end application](https://github.co
 
 * [Spring Boot](https://spring.io/projects/spring-boot) - Service endpoint
 
-## /mandelbrot
-Retrieves an image of the Mandelbrot set.
+## API
+**/mandelbrot**: Retrieves an image of the Mandelbrot set.
 
 ##### Parameters
 
