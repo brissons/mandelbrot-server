@@ -8,14 +8,14 @@
 
 The service endpoint is hosted on [Heroku](https://www.heroku.com/), and can be found [here](https://mandelbrot-service.herokuapp.com/mandelbrot). The first query may take a few moments to load.
 
-The service is best utilized using the [front end application](https://github.com/brissons/mandelbrot-explorer).
+The service is best used with the [front end application](https://github.com/brissons/mandelbrot-explorer).
 
 ## Built with
 
 * [Spring Boot](https://spring.io/projects/spring-boot) - Service endpoint
 
 ## API
-**/mandelbrot**: Retrieves an image of the Mandelbrot set.
+**/mandelbrot**: Retrieves an image from the Mandelbrot set.
 
 ##### Parameters
 
