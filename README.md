@@ -1,3 +1,6 @@
+<p align="center"> 
+  <img src="mandelbrot-example.jpg">
+</p>
 
 # mandelbrot-service
 
@@ -16,10 +19,6 @@ The service is best utilized using the [front end application](https://github.co
 ### /mandelbrot
 
 #### GET
-##### Summary:
-
-Retrieves Mandelbrot image.
-
 ##### Description:
 
 Retrieves an image of the Mandelbrot set.
@@ -33,12 +32,4 @@ Retrieves an image of the Mandelbrot set.
 | x | query | The x translation of the set. | No | number |
 | y | query | The y translation of the set. | No | number |
 | scale | query | The scale (zoom) of the set. | No | number |
-| i | query | The number of iterations. This inceases the detail of the set, at the expense of computation time. | No | number |
-
-##### Responses
-
-| Code | Description |
-| ---- | ----------- |
-| 200 | Image successfully retrieved. |
-| 400 | Bad Request. |
-| 500 | Invalid query. |
+| i | query | The number of iterations. Inceases detail at the expense of computation time. | No | number |
