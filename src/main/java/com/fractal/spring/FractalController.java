@@ -2,6 +2,7 @@ package com.fractal.spring;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.constraints.Max;
@@ -9,6 +10,7 @@ import javax.validation.constraints.Min;
 import java.math.BigDecimal;
 
 @Controller
+@Validated
 @EnableAutoConfiguration
 public class FractalController {
 
