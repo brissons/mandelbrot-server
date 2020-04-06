@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="mandelbrot-example.jpg">
+  <img src="mandelbrot-intro.jpg">
 </p>
 
 # mandelbrot-service
