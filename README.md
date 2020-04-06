@@ -28,7 +28,7 @@ Retrieves an image of the Mandelbrot set.
 | scale | query | The scale (zoom) of the set. | No | number |
 | i | query | The number of algorithm iterations (inceases detail). | No | number |
 
-#### Example
+## Example
 
 This [query](https://mandelbrot-service.herokuapp.com/mandelbrot?width=1920&height=1440&x=1069.1844985065172&y=535.9917714143127&scale=512&i=140) will return the following image:
 
